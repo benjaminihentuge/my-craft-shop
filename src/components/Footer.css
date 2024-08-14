@@ -1,0 +1,24 @@
+footer {
+    padding: 20px;
+    background-color: #f8f8f8;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.social-media {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.social-media li {
+    margin: 0 10px;
+}
+
+.social-media a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+}
